@@ -1,6 +1,7 @@
 ## After MONTHS of hard work, our team brings you Melody Unlocked
 
 # Features
-- Delays of 100, 200, and 300 ms to avoid detection!
-- Automatically completes any song!
-- 
+- Delay of 100, 200, or 300 ms to avoid detection!
+- Automatic solving of every song!
+- Works with any ping!
+- Constantly working on fixing bugs!
