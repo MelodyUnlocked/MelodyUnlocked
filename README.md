@@ -5,5 +5,6 @@
 - Automatic solving of every song!
 - Works with any ping!
 - Constantly working on fixing bugs!
+- Adjusts to server lag
 
 # RELEASE TO THE RIGHT ------------------>
